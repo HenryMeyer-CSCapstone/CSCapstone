@@ -1,0 +1,1 @@
+const myTimeout = setTimeout(myGreeting, 500);
